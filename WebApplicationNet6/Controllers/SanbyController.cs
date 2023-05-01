@@ -13,7 +13,7 @@ namespace WebApplicationNet6.Controllers
         [HttpGet("GetSanbyData")]
         public IActionResult GetSanbyData()
         {
-            return Ok(123);
+            return Ok(45645);
         }
     }
 }
